@@ -1,0 +1,39 @@
+marquee {
+    background-color: lightskyblue;
+    color: white;
+}
+
+#school_video {
+    width: 1331;
+    height: 587;
+}
+#Contact us img{
+    border-radius: 200px;
+}
+.travel_mainDiv{
+    padding: 15px;
+    border: 1px solid;
+    width: 380px;
+}
+.travel_mainDiv img{
+    width:400px;
+    height: 300px;
+}
+.achievements.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.achievements_head i{
+    float: right;
+}
+#science{
+    width: 400px;
+    height: 280px;
+}
+#principal{
+    height: 300px;
+    width: 320px;
+}
+
